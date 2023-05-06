@@ -1,66 +1,59 @@
-🌐 [Read the English version](https://github.com/api2hub/api2hub/blob/main/README_EN.md)
+🌐 [Lire la version française](https://github.com/api2hub/api2hub/blob/main/README.md)
 
-> ⚠️   veuillez noter que le service est actuellement en cours de développement. Nous vous encourageons donc à [nous contacter](mailto:contact@api2hub.com) si vous envisagez de collaborer.
+> Warning, please note that the service is currently under development. We encourage you to contact us if you are considering collaborating.
 
-# **Api2Hub - Plateforme de partage d'API sécurisée**
-Api2Hub est une plateforme de partage d'API sécurisée qui facilite la gestion des abonnements de vos utilisateurs pour vos services API.
+# Api2Hub - Secure API sharing platform
+Api2Hub is a secure API sharing platform that simplifies subscription management for your API services.
 
-## **👀 Caractéristiques principales**
+## **👀 Key features**
+- Subscription and user management for your API services
+- Active API community to discover and share APIs
+- Secure platform to protect your and your users' data
+## **💁‍♂️ User and subscription management**
+Api2Hub is a platform that streamlines subscription management by handling subscription and user management for your API services. You no longer have to worry about managing subscriptions and users because our platform takes care of everything. As an API service creator, you can focus on creating exceptional services.
 
-- Gestion de la souscription et des utilisateurs pour vos services API
-- Communauté API active pour trouver et partager des API
-- Plateforme sécurisée pour protéger vos données et celles de vos utilisateurs
+The Api2Hub user management platform offers a frictionless subscription experience for users. It also features flexible subscription options, easy cancellation of subscriptions, and notifications for updates to your APIs. You can easily manage your users and subscribers with Api2Hub while providing a smooth and transparent user experience.
 
-## **💁 Gestion des utilisateurs et des abonnements**
+With Api2Hub, managing your API services securely is easy. Our user-friendly platform allows you to manage subscriptions, track metrics, and analyze the performance of your services.
 
-Api2Hub est une plateforme qui simplifie la gestion des abonnements en prenant en charge la souscription et la gestion des utilisateurs pour vos services API. Vous n'aurez plus à vous soucier de la gestion des abonnements et des utilisateurs, car notre plateforme s'occupe de tout. En tant que créateur de services API, vous pouvez vous concentrer sur la création de services exceptionnels.
+## **👥 Active API community**
+In addition to streamlining subscription and user management for your API services, Api2Hub also features an active API community to help you discover and share APIs. Joining our community allows you to find existing solutions for your projects, explore new APIs, and share your own services with developers from around the world.
 
-La plateforme de gestion des utilisateurs d'Api2Hub offre une expérience de souscription sans friction pour les utilisateurs. Elle propose également des fonctionnalités d'abonnement flexibles, des annulations d'abonnement faciles et des notifications pour les mises à jour de vos API's. Vous pouvez facilement gérer vos utilisateurs et les abonnés avec Api2Hub, tout en fournissant une expérience utilisateur fluide et transparente.
+Our API community is made up of passionate and expert developers, ensuring an enriching and collaborative experience. You can ask questions, share your knowledge, and collaborate with other developers to improve your API services.
 
-> Avec Api2Hub, il est facile de gérer vos services API en toute sécurité. Notre plateforme conviviale vous permet de gérer les abonnements, de suivre les métriques et d'analyser les performances de vos services.
+As a member of the Api2Hub community, you have access to a wide variety of API services shared by members. You can explore new services and easily integrate them into your projects. You can also share your own API services with the community and receive feedback and suggestions for improvement.
 
-## **👍️ Communauté API active**
+Joining the Api2Hub community is easy and free. Simply sign up for our platform to access all of the community's features. With Api2Hub, you can not only streamline the management of your API services but also be part of an exciting and collaborative community.
 
-En plus de simplifier la gestion des abonnements et des utilisateurs pour vos services API, Api2Hub propose également une communauté API active pour vous aider à trouver et partager des API. Rejoindre notre communauté vous permettra de trouver des solutions existantes pour vos projets, d'explorer de nouvelles API et de partager vos propres services avec des développeurs du monde entier.
+## **🔐 Secure platform**
+At Api2Hub, we understand that the security of your data is crucial to the success of your business. That's why we have taken rigorous measures to protect your content from potential threats.
 
-Notre communauté API est composée de membres passionnés et experts en matière de développement, ce qui vous garantit une expérience enrichissante et collaborative. Vous pouvez poser des questions, partager vos connaissances et collaborer avec d'autres développeurs pour améliorer vos services API.
+Our security team is constantly working to maintain the highest levels of security. We use state-of-the-art security infrastructure, including strong user authentication and SSL certificates to ensure that communications with our platform are encrypted. We also conduct regular penetration testing to identify and correct potential vulnerabilities in our system.
 
-En tant que membre de la communauté Api2Hub, vous avez accès à une grande variété de services API partagés par les membres. Vous pouvez explorer de nouveaux services et les intégrer facilement dans vos projets. Vous pouvez également partager vos propres services API avec la communauté et recevoir des commentaires et des suggestions pour les améliorer.
+In addition to these security measures, we also provide continuous security monitoring and regular updates to ensure that our systems remain up to date with the latest security industry practices. You can rest assured that your content is protected with Api2Hub.
 
-Rejoindre la communauté Api2Hub est facile et gratuit. Il vous suffit de vous inscrire sur notre plateforme pour accéder à toutes les fonctionnalités de la communauté. Avec Api2Hub, vous pouvez non seulement simplifier la gestion de vos services API, mais également faire partie d'une communauté passionnante et collaborative.
+## **💚 Supporting Api2Hub**
 
-## **🔐 Plateforme sécurisée**
+If you're interested in supporting Api2Hub, there are a few ways you can help:
 
-Chez Api2Hub, nous comprenons que la sécurité de vos données est cruciale pour le succès de votre entreprise. C'est pourquoi nous avons pris des mesures rigoureuses pour protéger votre contenu contre les menaces potentielles.
+- Spread the word: Tell your friends and colleagues about Api2Hub and the benefits it offers. Share our platform on social media and encourage others to join our active API community.
+- Collaborate with us: If you have expertise in API development or subscription management, we would love to collaborate with you. Contact us to discuss potential partnerships and how we can work together to improve our services.
+- Make a donation: Api2Hub relies on the support of our users to maintain our secure and reliable platform. If you appreciate our services and would like to contribute, you can make a donation through our website.
+- Provide feedback: We value the feedback of our users and are always looking for ways to improve our platform. If you have any suggestions or comments, please let us know through our feedback form or by contacting our support team.
 
-Notre équipe de sécurité travaille constamment pour maintenir les plus hauts niveaux de sécurité. Nous utilisons une infrastructure de sécurité de pointe, y compris l'authentification forte des utilisateurs et des certificats SSL pour garantir que les communications avec notre plateforme sont cryptées. Nous effectuons également des tests de pénétration réguliers pour identifier et corriger les vulnérabilités potentielles de notre système.
+By supporting Api2Hub, you can help us continue to provide exceptional API services and foster a collaborative and secure community for developers around the world. 💚💚
 
-En plus de ces mesures de sécurité, nous fournissons également une surveillance de sécurité continue et des mises à jour régulières pour garantir que nos systèmes restent à jour avec les dernières pratiques de sécurité de l'industrie. Vous pouvez avoir l'esprit tranquille en sachant que votre contenu est protégé avec Api2Hub.
-
-## **💚 Soutenir Api2Hub**
-Si vous êtes intéressé à soutenir Api2Hub, il existe plusieurs façons de nous aider :
-
-- Diffuser l'information : Parlez de Api2Hub et des avantages qu'il offre à vos amis et collègues. Partagez notre plateforme sur les réseaux sociaux et encouragez les autres à rejoindre notre communauté API active.
-
-- Collaborer avec nous : Si vous avez une expertise en développement d'API ou en gestion d'abonnements, nous aimerions collaborer avec vous. Contactez-nous pour discuter de partenariats potentiels et de la façon dont nous pouvons travailler ensemble pour améliorer nos services.
-
-- Faire un don : Api2Hub compte sur le soutien de nos utilisateurs pour maintenir notre plateforme sécurisée et fiable. Si vous appréciez nos services et que vous souhaitez contribuer, vous pouvez faire un don sur notre site web.
-
-- Fournir des commentaires : Nous apprécions les commentaires de nos utilisateurs et cherchons toujours des moyens d'améliorer notre plateforme. Si vous avez des suggestions ou des commentaires, veuillez nous en informer via notre formulaire de commentaires ou en contactant notre équipe de soutien.
-
-En soutenant Api2Hub, vous pouvez nous aider à continuer à fournir des services API exceptionnels et à promouvoir une communauté collaborative et sécurisée pour les développeurs du monde entier. 💚💚
-
-## **📨 Contact / 📎 Links**
-
+## **📩 Contact / 📎 Links**
 - [contact@api2hub.com](mailto:contact@api2hub.com)
-- [site web](https://api2hub.com/)
+- [web site](https://api2hub.com/)
 - [organisation github](https://github.com/api2hub)
 - [twitter](https://twitter.com/api2hub)
-
-## **📃 Licence**
-- Ce projet est sous licence Apache 2.0.
+- [mastodon](https://mastodon.social/@api2hub)
+## **📃 License**
+- This project is licensed under the Apache 2.0 license.
 - Copyright (c) 2023 Benoit Petit contact@api2hub.com
-- Le texte complet de la licence est disponible dans le fichier [LICENSE](https://github.com/api2hub/api2hub/blob/main/LICENSE).
+- The full text of the license is available in the [LICENSE](https://github.com/api2hub/api2hub/blob/main/LICENSE) file.
 
-## **🌐 Traduction**
-- Cette page est également disponible en [anglais](https://github.com/api2hub/api2hub/blob/main/README_EN.md).
+
+## **🌍 Translation**
+- This page is also available in [French](https://github.com/api2hub/api2hub/blob/main/README.md).
