@@ -48,7 +48,7 @@ By supporting Api2Hub, you can help us continue to provide exceptional API servi
 - [web site](https://api2hub.com/)
 - [organisation github](https://github.com/api2hub)
 - [twitter](https://twitter.com/api2hub)
-- <a rel="me" href="https://mastodon.social/@api2hub">mastodon</a>
+- <a rel="me" rel="me" href="https://mastodon.social/@api2hub">mastodon</a>
 
 ## **📃 License**
 - This project is licensed under the Apache 2.0 license.
